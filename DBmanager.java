@@ -7,9 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;;
 
 
-/**
- * @author James Fowke
- */
 public class DBmanager {
 
 	private Connection connection = null;
