@@ -6,8 +6,6 @@ import java.sql.*;
  * A class to create two tables in the database, Words and Players,
  * and add all the data into both.
  * 
- * @author Chloe Brinkman
- *
  */
 public class PopulateDB {
 	
