@@ -27,7 +27,7 @@ import javax.swing.SwingConstants;
  * other during the game. ChatBox extends JPanel and is a Panel which is added
  * to the container frame ClientApp2.
  * 
- * @author Tori Keegan & James Fowke
+ * @author Tori Keegan
  *
  */
 
