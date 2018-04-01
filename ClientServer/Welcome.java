@@ -18,8 +18,6 @@ import javax.swing.border.SoftBevelBorder;
 
 /**
  * Frame class to welcome users
- * 
- * @author Antonia Christodoulou
  *
  */
 
