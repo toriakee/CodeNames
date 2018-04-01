@@ -9,8 +9,6 @@ import java.util.Set;
  * A class that contains a randomSet method for querying the GameWords relation
  * to retrieve a new set of 25 words for each new game. randomSet makes use of
  * the helper method random.
- * 
- * @author Chloe Brinkman
  *
  */
 public class GameWordsMethods {
