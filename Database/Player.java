@@ -1,9 +1,5 @@
 package Database;
-/**
- * 
- * @author James Fowke
- *
- */
+
 public class Player {
 	
 	private int userid;
